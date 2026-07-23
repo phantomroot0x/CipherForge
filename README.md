@@ -37,7 +37,7 @@ The first implementation focuses on the **Caesar Cipher**, a classical substitut
 
 ## 🧠 Current Status
 
-🚧 **Version 0.1.0 — Project Foundation**
+🚧 **Version 1.0.0 — Project Foundation**
 
 The project structure is currently being developed incrementally. New cryptographic functionality will be added and tested in future releases.
 
